@@ -1,0 +1,19 @@
+#footer-section
+{
+    background-color: var(--light-color);
+    color: var(--main-color);
+
+}
+.sideBarIcon
+{
+    padding: 0.5rem;
+    border: 1px solid var(--main-color);
+    border-radius: 50%;
+    display: inline-block;
+  
+}
+.sideBarIcon:hover
+{
+    background-color: var(--main-color);
+    color: white;
+}
